@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+.resaltado{
+    color:yellow;
+}
+
+#titulo_del_blog{
+    text-align:center;
+    font-size: 3rem;
+}
+
+article {
+    padding: 1.5rem;
+    background-color: rgb(44, 43, 43);
+    color:white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:white;
+}
+
+#titulo_del_blog {
+     text-align:center;
+    font-size: 3rem;
+}
+   
+.ilustracion{
+    border: 3px solid snow;
+    font-style: italic;
+}
+
+figcaption{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+nav>ul>li {
+
+    list-style: none;
+}
+
+
